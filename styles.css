@@ -2,6 +2,7 @@
 @import 'components/gender-search.css';
 @import 'components/card.css';
 @import 'components/buttonPrimary.css';
+@import 'components/buttonLink.css';
 
 
 :root {
@@ -34,6 +35,12 @@
     font-family: 'Comic Sans MS', sans-serif;
 }
 
+.titleName {
+    font-size: 32px;
+    font-weight: 600;
+    font-family: 'Comic Sans MS', sans-serif;
+}
+
 .body1 {
     font-size: 16px;
     font-weight: 400;
@@ -44,14 +51,14 @@
 
 
 
-main {
+.main {
     width: 768px;
     margin: 0 auto;
     display: flex;
     flex-direction: column;
     gap: 40px;
     padding: 0 16px;
-    
+
 }
 
 body {
@@ -105,6 +112,26 @@ body {
     justify-content: center;
 }
 
+.NameHeader {
+    background-color: var(--color-background-secondary);
+    color: var(--color-content-primary);
+    padding: 16px 32px 20px 32px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 16px;
+}
+
+.NameMain {
+    width: 768px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+    padding: 24px 16px;
+
+}
+
 /* Footer styles */
 footer {
     background-color: var(--color-background-secondary);
@@ -125,5 +152,21 @@ footer {
     }
 }
 
+.filters-selected {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
 
-
+.filter-group {
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+}
+.filter-label {
+    font-weight: 600;
+    color: #888888;
+}
+.filter-value {
+    color: var(--color-content-primary);
+}
