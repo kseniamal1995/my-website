@@ -1,0 +1,17 @@
+{
+    "name": "babynames/scraper",
+    "description": "Baby names scraper from thebump.com",
+    "type": "project",
+    "require": {
+        "php": ">=8.1",
+        "guzzlehttp/guzzle": "^7.8",
+        "ext-pdo": "*",
+        "ext-dom": "*",
+        "ext-libxml": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "BabyNames\\Scraper\\": "src/"
+        }
+    }
+} 

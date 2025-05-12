@@ -1,0 +1,1 @@
+ALTER TABLE names ADD COLUMN detail TEXT AFTER meaning_text; 

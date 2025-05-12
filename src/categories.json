@@ -1,0 +1,1953 @@
+{
+    "listCategories": {
+      "categories": [
+        {
+          "id": 14,
+          "name": "Baby Names by Gender",
+          "slug": "baby-names-by-gender",
+          "description": "No doubt since you’ve gotten the news that you're a new parent-to-be, you’ve been wondering what the perfect name for baby is! With everything to consider from their natural personality or what interests will be molded by you to their family tree’s roots and the languages you speak, it’s certainly not a small task. However, starting with the basics makes everything easier; consider exploring baby names by gender! Whether you know baby’s sex and want to name them accordingly, you’re keeping it all a surprise and going down the gender-neutral path, or you want to leave the identity completely up to your little one with non-binary baby names, these lists have you covered.",
+          "childLists": [
+            {
+              "name": "Baby Girl Names",
+              "slug": "girl-baby-names"
+            },
+            {
+              "name": "Gender-Neutral Baby Names",
+              "slug": "unisex-baby-names"
+            },
+            {
+              "name": "Baby Middle Names",
+              "slug": "baby-middle-names"
+            },
+            {
+              "name": "Baby Boy Names",
+              "slug": "boy-baby-names"
+            },
+            {
+              "name": "Non-Binary Baby Names",
+              "slug": "non-binary-baby-names"
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "name": "Top Baby Names by Year",
+          "slug": "most-popular-baby-names-by-year",
+          "description": "If baby is bound to be a trendsetter by showcasing the next big thing or always rocking vintage style, top baby names by year is the way to go. With the baby names charts shifting throughout the decades, there’s plenty of variety to go around while still having enough charm to last a lifetime.",
+          "childLists": [
+            {
+              "name": "Top 1000 Baby Names of 2023",
+              "slug": "most-popular-baby-names-2023"
+            },
+            {
+              "name": "Millennial Baby Names",
+              "slug": "millennial-baby-names"
+            },
+            {
+              "name": "Top 1000 Baby Names of 2024",
+              "slug": "most-popular-baby-names-2024"
+            },
+            {
+              "name": "Top 1000 Baby Names of 2025 (So Far)",
+              "slug": "most-popular-baby-names"
+            },
+            {
+              "name": "Top 562 Baby Boy Names of 2025 (So Far)",
+              "slug": "most-popular-baby-boy-names"
+            },
+            {
+              "name": "Popular Baby Names from the 2000s",
+              "slug": "2000s-baby-names"
+            },
+            {
+              "name": "The Top 400 Baby Names in 2020",
+              "slug": "most-popular-baby-names-2020"
+            },
+            {
+              "name": "1700s Baby Names",
+              "slug": "1700s-baby-names"
+            },
+            {
+              "name": "Top 725 Baby Girl Names of 2025 (So Far)",
+              "slug": "most-popular-baby-girl-names"
+            },
+            {
+              "name": "Popular Baby Names from the 1800s",
+              "slug": "1800s-baby-names"
+            },
+            {
+              "name": "21st Century Baby Names",
+              "slug": "twenty-first-century-baby-names"
+            },
+            {
+              "name": "Popular Baby Names Through the Decades of the 1900s",
+              "slug": "1900s-baby-names"
+            },
+            {
+              "name": "Top 1000 Baby Names of 2022",
+              "slug": "most-popular-baby-names-2022"
+            },
+            {
+              "name": "Popular Baby Boomer Names",
+              "slug": "boomer-baby-names"
+            },
+            {
+              "name": "Ancient Baby Names",
+              "slug": "ancient-baby-names"
+            },
+            {
+              "name": "Top 1000 Baby Names of 2021",
+              "slug": "most-popular-baby-names-2021"
+            },
+            {
+              "name": "Popular Baby Names from the 2010s",
+              "slug": "2010s-baby-names"
+            },
+            {
+              "name": "Victorian Baby Names",
+              "slug": "victorian-baby-names"
+            },
+            {
+              "name": "Vintage Baby Names",
+              "slug": "vintage-baby-names"
+            }
+          ]
+        },
+        {
+          "id": 16,
+          "name": "Classic Baby Names",
+          "slug": "classic-baby-names",
+          "description": "Classic baby names are the many facets on the cut diamond of naming. With timeless contenders from country, beautiful, traditional, vintage, and so many others, it’s here where you’ll find selections across history. Adding baby to the legacy of names that have been around for decades—and aren’t going anywhere—is an excellent first birthday present.",
+          "childLists": [
+            {
+              "name": "Medieval Baby Names",
+              "slug": "medieval-baby-names"
+            },
+            {
+              "name": "Kingly Baby Names",
+              "slug": "king-baby-names"
+            },
+            {
+              "name": "Posh Baby Names",
+              "slug": "posh-baby-names"
+            },
+            {
+              "name": "Princely Baby Names",
+              "slug": "prince-baby-names"
+            },
+            {
+              "name": "Top 200 Three-Syllable Baby Girl Names",
+              "slug": "three-syllable-baby-girl-names"
+            },
+            {
+              "name": "Long Baby Names",
+              "slug": "long-baby-names"
+            },
+            {
+              "name": "Preppy Baby Names",
+              "slug": "preppy-baby-names"
+            },
+            {
+              "name": "Victorian Baby Names",
+              "slug": "victorian-baby-names"
+            },
+            {
+              "name": "National Freedom Day Inspired Baby Names",
+              "slug": "freedom-day-baby-names"
+            },
+            {
+              "name": "Top 204 Three-Syllable Baby Boy Names",
+              "slug": "three-syllable-baby-boy-names"
+            },
+            {
+              "name": "Handsome Baby Boy Names",
+              "slug": "handsome-baby-boy-names"
+            },
+            {
+              "name": "Vintage Baby Names",
+              "slug": "vintage-baby-names"
+            },
+            {
+              "name": "Twin Baby Names for Boys \u0026 Girls",
+              "slug": "twin-baby-names"
+            },
+            {
+              "name": "84 Three-Letter Baby Names",
+              "slug": "3-letter-baby-names"
+            },
+            {
+              "name": "Traditional Baby Names",
+              "slug": "traditional-baby-names"
+            },
+            {
+              "name": "Romantic Baby Names",
+              "slug": "romantic-baby-names"
+            },
+            {
+              "name": "Queenly Baby Names",
+              "slug": "queen-baby-names"
+            },
+            {
+              "name": "Catholic Baby Names",
+              "slug": "catholic-baby-names"
+            },
+            {
+              "name": "Cowboy \u0026 Cowgirl Baby Names",
+              "slug": "cowboy-baby-names"
+            },
+            {
+              "name": "250 Gothic Baby Names With Dark Meanings",
+              "slug": "gothic-baby-names"
+            },
+            {
+              "name": "Rainbow Baby Names",
+              "slug": "rainbow-baby-names"
+            },
+            {
+              "name": "Poetic Baby Names",
+              "slug": "poetic-baby-names"
+            },
+            {
+              "name": "One Syllable Baby Names",
+              "slug": "one-syllable-baby-names"
+            }
+          ]
+        },
+        {
+          "id": 30,
+          "name": "Seasonal Baby Names",
+          "slug": "seasonal-baby-names",
+          "description": "When every time of the year could be considered the best time of the year, it’s hard to know what direction to take when naming baby! Seasonal baby names range from Christmas and Kwanzaa to actual seasonal changes represented with summer and cozy baby names. A seasonal baby name will allow you to celebrate the day baby was born, no matter what time of year it is.",
+          "childLists": [
+            {
+              "name": "Baby Names Inspired by International Creativity Month",
+              "slug": "creativity-month-baby-names"
+            },
+            {
+              "name": "Spring Baby Names",
+              "slug": "spring-baby-names"
+            },
+            {
+              "name": "Surfer Baby Names",
+              "slug": "surfer-baby-names"
+            },
+            {
+              "name": "Festive Baby Girl \u0026 Boy Names for Thanksgiving",
+              "slug": "thanksgiving-baby-names"
+            },
+            {
+              "name": "Hanukkah Baby Names",
+              "slug": "hanukkah-baby-names"
+            },
+            {
+              "name": "St Patrick's Day Baby Names",
+              "slug": "saint-patricks-day-baby-names"
+            },
+            {
+              "name": "Winter Baby Names",
+              "slug": "winter-baby-names"
+            },
+            {
+              "name": "Summer Baby Names",
+              "slug": "summer-baby-names"
+            },
+            {
+              "name": "Loving Baby Names for Valentine’s Day",
+              "slug": "valentines-baby-names"
+            },
+            {
+              "name": "Ōmisoka Baby Names",
+              "slug": "omisoka-baby-names"
+            },
+            {
+              "name": "Warm and Cozy Fall Names for Autumn Babies",
+              "slug": "autumnal-baby-names"
+            },
+            {
+              "name": "Weather-Inspired Baby Names",
+              "slug": "weather-baby-names"
+            },
+            {
+              "name": "Kwanzaa Baby Names",
+              "slug": "kwanzaa-baby-names"
+            },
+            {
+              "name": "Christmas Baby Names",
+              "slug": "christmas-baby-names"
+            },
+            {
+              "name": "Baby Names Inspired by Pride Month",
+              "slug": "pride-baby-names"
+            },
+            {
+              "name": "Baby Names Inspired by Chinese New Year",
+              "slug": "chinese-new-year-baby-names"
+            },
+            {
+              "name": "New Year's Baby Names",
+              "slug": "new-years-baby-names"
+            },
+            {
+              "name": "Ramadan Baby Names",
+              "slug": "ramadan-baby-names"
+            },
+            {
+              "name": "Spooky Names for Baby",
+              "slug": "spooky-baby-names"
+            },
+            {
+              "name": "Baby Names for Irish American Heritage Month",
+              "slug": "irish-american-baby-names"
+            },
+            {
+              "name": "Baby Names for Greek American Heritage Month",
+              "slug": "greek-american-baby-names"
+            },
+            {
+              "name": "Feminist Baby Names for Women’s History Month",
+              "slug": "feminist-baby-names"
+            }
+          ]
+        },
+        {
+          "id": 37,
+          "name": "Baby Names by Color",
+          "slug": "color-baby-names",
+          "description": "\u003cp\u003eLife’s never-ending questions aren’t always a tour of existentialism. Sometimes it can be as simple as “what’s your favorite color?” It’s a classic opener; since you were a kid, you’ve likely been asked this question hundreds of times! While some people are steadfast about their color of choice their whole lives, others may go through phases. But regardless, color has a way of igniting something wondrous in the brain! These baby girl, boy, and gender-neutral names inspired by color will have you and baby seeing the world in technicolor from the very beginning.\u003c/p\u003e\u003cp\u003eColors have connotations. Certain colors are considered loud, some are considered calming, some are sad or angry, while others are undeniably joyous. Though there is science behind the way humans perceive color and how it translates in the brain, there is also a set of often inexplicable feelings a person can have when presented with specific colors. Colors affect so much more than just appearance; they represent the inner workings and reflect what’s happened in your life!\u003c/p\u003e\u003cp\u003ePicking a baby name by color is picking which passion you want to encourage baby towards. Or it could be that you’re determining what pigment will give them the most joy and comfort. Setting baby on a path filled with the color that brings your heart gladness will open up a world where they’re connected to you and happiness both.\u003c/p\u003e",
+          "childLists": [
+            {
+              "name": "Baby Names That Mean “Black”",
+              "slug": "black-baby-names"
+            },
+            {
+              "name": "Baby Names That Mean “White”",
+              "slug": "white-baby-names"
+            },
+            {
+              "name": "Baby Names That Mean “Pink”",
+              "slug": "pink-baby-names"
+            },
+            {
+              "name": "Baby Names That Mean “Purple”",
+              "slug": "purple-baby-names"
+            },
+            {
+              "name": "Baby Names That Mean “Red”",
+              "slug": "red-baby-names"
+            },
+            {
+              "name": "Baby Names That Mean “Gold”",
+              "slug": "gold-baby-names"
+            },
+            {
+              "name": "Baby Names That Mean “Orange”",
+              "slug": "orange-baby-names"
+            },
+            {
+              "name": "Baby Names That Mean “Silver”",
+              "slug": "silver-baby-names"
+            },
+            {
+              "name": "Baby Names That Mean “Blue”",
+              "slug": "blue-baby-names"
+            },
+            {
+              "name": "Baby Names That Mean “Green”",
+              "slug": "green-baby-names"
+            },
+            {
+              "name": "Rainbow Baby Names",
+              "slug": "rainbow-baby-names"
+            },
+            {
+              "name": "Baby Names Inspired by Pride Month",
+              "slug": "pride-baby-names"
+            },
+            {
+              "name": "Baby Names That Mean “Yellow”",
+              "slug": "yellow-baby-names"
+            }
+          ]
+        },
+        {
+          "id": 35,
+          "name": "Baby Names by Month",
+          "slug": "by-month-baby-names",
+          "description": "No doubt the best time of the year is the month baby is born! A seasonal baby name is wonderful, but honing in on what makes their birth month unique is all the more special! Whether baby is born during the cozy, chilly months, the fresh, bright springtime, beneath the dazzling, warm sunshine, or the crisp, adventurous autumn months, these baby name lists have you covered. Not to mention how much easier it is to pick a baby name according to baby’s sign with these lists!",
+          "childLists": [
+            {
+              "name": "February Baby Names",
+              "slug": "february-baby-names"
+            },
+            {
+              "name": "November Baby Names",
+              "slug": "november-baby-names"
+            },
+            {
+              "name": "January Baby Names",
+              "slug": "january-baby-names"
+            },
+            {
+              "name": "May Baby Names",
+              "slug": "may-baby-names"
+            },
+            {
+              "name": "June Baby Names",
+              "slug": "june-baby-names"
+            },
+            {
+              "name": "July Baby Names",
+              "slug": "july-baby-names"
+            },
+            {
+              "name": "September Baby Names",
+              "slug": "september-baby-names"
+            },
+            {
+              "name": "March Baby Names",
+              "slug": "march-baby-names"
+            },
+            {
+              "name": "October Baby Names",
+              "slug": "october-baby-names"
+            },
+            {
+              "name": "April Baby Names",
+              "slug": "april-baby-names"
+            },
+            {
+              "name": "August Baby Names",
+              "slug": "august-baby-names"
+            },
+            {
+              "name": "December Baby Names",
+              "slug": "december-baby-names"
+            }
+          ]
+        },
+        {
+          "id": 38,
+          "name": "Astrology-Inspired Baby Names",
+          "slug": "astrology-baby-names",
+          "description": "Plenty of parents are choosing their new family members’ names according to their charts, and now you can too! Generations upon generations of parents have looked to the stars as reminders of the unearthly and uncanny influences on their lives. But the lifestyle that accompanies a passion for astrology is far more than just star signs; from crystals to pure gut feelings, there are an infinite number of muses in and outside of the world that impact daily life.",
+          "childLists": [
+            {
+              "name": "Virgo Baby Names",
+              "slug": "virgo-baby-names"
+            },
+            {
+              "name": "Cancer Baby Names",
+              "slug": "cancer-baby-names"
+            },
+            {
+              "name": "Optimistic Baby Names",
+              "slug": "optimistic-baby-names"
+            },
+            {
+              "name": "Libra Baby Names",
+              "slug": "libra-baby-names"
+            },
+            {
+              "name": "Scorpio Baby Names",
+              "slug": "scorpio-baby-names"
+            },
+            {
+              "name": "Pisces Baby Names",
+              "slug": "pisces-baby-names"
+            },
+            {
+              "name": "Aquarius Baby Names",
+              "slug": "aquarius-baby-names"
+            },
+            {
+              "name": "Taurus Baby Names",
+              "slug": "taurus-baby-names"
+            },
+            {
+              "name": "Aries Baby Names",
+              "slug": "aries-baby-names"
+            },
+            {
+              "name": "Gemini Baby Names",
+              "slug": "gemini-baby-names"
+            },
+            {
+              "name": "Soft Baby Names",
+              "slug": "soft-baby-names"
+            },
+            {
+              "name": "Leo Baby Names",
+              "slug": "leo-baby-names"
+            },
+            {
+              "name": "Capricorn Baby Names",
+              "slug": "capricorn-baby-names"
+            },
+            {
+              "name": "Sagittarius Baby Names",
+              "slug": "sagittarius-baby-names"
+            },
+            {
+              "name": "Baby Names That Mean “Star”",
+              "slug": "star-baby-names"
+            },
+            {
+              "name": "Shining Baby Names That Mean “Sun”",
+              "slug": "sun-baby-names"
+            },
+            {
+              "name": "Baby Names That Mean “Moon”",
+              "slug": "moon-baby-names"
+            },
+            {
+              "name": "Baby Names That Mean “Wind” and “Sky”",
+              "slug": "wind-baby-names"
+            },
+            {
+              "name": "Element Baby Names",
+              "slug": "element-baby-names"
+            },
+            {
+              "name": "Celestial Baby Names",
+              "slug": "celestial-baby-names"
+            },
+            {
+              "name": "Ethereal Baby Names",
+              "slug": "ethereal-baby-names"
+            },
+            {
+              "name": "Greek Mythology Baby Names",
+              "slug": "greek-myth-baby-names"
+            },
+            {
+              "name": "Mythological Baby Names",
+              "slug": "mythological-baby-names"
+            }
+          ]
+        },
+        {
+          "id": 31,
+          "name": "Fictional Baby Names",
+          "slug": "fictional-baby-names",
+          "description": "For those of us heavily invested in the binge-watching culture, fictional baby names are making themselves a force to be reckoned with. Plucking your favorites from all over cultural sensations means you and baby are left with only the best of the best. References to prolific franchises like Star Wars all the way to your favorite anime names from Studio Ghibli films, fictional baby names have it made in the shade—or in the dark, with a bowl of popcorn in your lap, at least.",
+          "childLists": [
+            {
+              "name": "20 Names We Love from In the Heights",
+              "slug": "in-the-heights-baby-names"
+            },
+            {
+              "name": "40 Baby Names from \u003ci\u003eStranger Things\u003c/i\u003e",
+              "slug": "stranger-things-baby-names"
+            },
+            {
+              "name": "37 Baby Names Inspired by Baby Yoda",
+              "slug": "baby-yoda-baby-names"
+            },
+            {
+              "name": "Baby Names from \u003ci\u003eHouse of the Dragon\u003c/i\u003e and \u003ci\u003eGame of Thrones\u003c/i\u003e",
+              "slug": "new-game-of-thrones-baby-names"
+            },
+            {
+              "name": "\u003cspan class=\"long-text\"\u003eClassic Baby Names Inspired by Downton Abbey\u003c/span\u003e",
+              "slug": "downton-abbey-baby-names"
+            },
+            {
+              "name": "Mythological Baby Names",
+              "slug": "mythological-baby-names"
+            },
+            {
+              "name": "20 Atypical Baby Names You’ll Adore",
+              "slug": "atypical-baby-names"
+            },
+            {
+              "name": "Baby Names from \u003ci\u003eThe Witcher\u003c/i\u003e",
+              "slug": "witcher-baby-names"
+            },
+            {
+              "name": "Fairy Baby Names",
+              "slug": "fairy-baby-names"
+            },
+            {
+              "name": "Mermaid-Inspired Baby Names",
+              "slug": "mermaid-baby-names"
+            },
+            {
+              "name": "\u003ci\u003eStar Wars\u003c/i\u003e Baby Names",
+              "slug": "star-wars-baby-names"
+            },
+            {
+              "name": "Greek Mythology Baby Names",
+              "slug": "greek-myth-baby-names"
+            },
+            {
+              "name": "\u003ci\u003eSex and the City\u003c/i\u003e Baby Names",
+              "slug": "sex-and-the-city-baby-names"
+            },
+            {
+              "name": "Fantasy Baby Names",
+              "slug": "fantasy-baby-names"
+            },
+            {
+              "name": "Shakespearean Baby Names",
+              "slug": "shakespeare-baby-names"
+            },
+            {
+              "name": "Marvel Baby Names",
+              "slug": "marvel-baby-names"
+            },
+            {
+              "name": "Baby Names from \u003ci\u003eThe Rings of Power\u003c/i\u003e and \u003ci\u003eThe Lord of the Rings\u003c/i\u003e",
+              "slug": "new-lotr-baby-names"
+            },
+            {
+              "name": "DC Baby Names",
+              "slug": "dc-baby-names"
+            },
+            {
+              "name": "Sweet Magnolias Baby Names",
+              "slug": "sweet-magnolias-baby-names"
+            },
+            {
+              "name": "28 Regal Baby Names from “Queen Charlotte”",
+              "slug": "queen-charlotte-baby-names"
+            },
+            {
+              "name": "\u003cspan class=\"long-text\"\u003eAnime Baby Names Straight From Studio Ghibli\u003c/span\u003e",
+              "slug": "anime-baby-names"
+            },
+            {
+              "name": "52 Barbie-Inspired Baby Names",
+              "slug": "barbie-baby-names"
+            },
+            {
+              "name": "32 Gritty Baby Names from “Succession”",
+              "slug": "succession-baby-names"
+            },
+            {
+              "name": "Baby Names Inspired by Pixar Movies",
+              "slug": "pixar-baby-names"
+            },
+            {
+              "name": "75 Harry Potter Baby Names",
+              "slug": "harry-potter-baby-names"
+            },
+            {
+              "name": "Timeless Baby Names from \u003ci\u003eOutlander\u003c/i\u003e",
+              "slug": "outlander-baby-names"
+            },
+            {
+              "name": "Video Game Baby Names",
+              "slug": "video-game-baby-names"
+            },
+            {
+              "name": "Friendly Baby Names from \u003ci\u003eThe Baby-Sitters Club\u003c/i\u003e",
+              "slug": "baby-sitters-club-baby-names"
+            },
+            {
+              "name": "101 Superhero Baby Names",
+              "slug": "superhero-baby-names"
+            },
+            {
+              "name": "15 Names We Love From Ted Lasso",
+              "slug": "ted-lasso-baby-names"
+            },
+            {
+              "name": "Sci-Fi Baby Names",
+              "slug": "sci-fi-baby-names"
+            },
+            {
+              "name": "Scary Baby Names",
+              "slug": "scary-baby-names"
+            }
+          ]
+        },
+        {
+          "id": 17,
+          "name": "Baby Names by Style",
+          "slug": "baby-names-by-style",
+          "description": "These lists are for the baby that will be moving ahead of the tide and setting the trends from day one. Baby names by style include names for baby’s sign, inspired by fashionable cities, purely badass names, and many more. For the little soul you’ll raise to be fluent in the cultural ebbs and flows, trendy baby names are the way to go.",
+          "childLists": [
+            {
+              "name": "Two Syllable Baby Names",
+              "slug": "two-syllable-baby-names"
+            },
+            {
+              "name": "Four-Letter Baby Names",
+              "slug": "four-letter-baby-names"
+            },
+            {
+              "name": "Strong \u0026 Powerful Baby Names",
+              "slug": "strong-and-powerful-baby-names"
+            },
+            {
+              "name": "Cozy Baby Names",
+              "slug": "cozy-baby-names"
+            },
+            {
+              "name": "Whimsical Baby Names",
+              "slug": "whimsical-baby-names"
+            },
+            {
+              "name": "125 Perfect Pet Names for Your Fur Baby",
+              "slug": "pet-baby-names"
+            },
+            {
+              "name": "Musical Baby Names",
+              "slug": "musical-baby-names"
+            },
+            {
+              "name": "Country Baby Names",
+              "slug": "country-baby-names"
+            },
+            {
+              "name": "250 Gothic Baby Names With Dark Meanings",
+              "slug": "gothic-baby-names"
+            },
+            {
+              "name": "Southern Baby Names",
+              "slug": "southern-baby-names"
+            },
+            {
+              "name": "Roll Call! 60 College-Inspired Baby Names Your Little Scholar Will Love",
+              "slug": "college-baby-names"
+            },
+            {
+              "name": "Witchy Baby Names",
+              "slug": "witchy-baby-names"
+            },
+            {
+              "name": "Fancy Names for Baby Boys and Girls",
+              "slug": "fancy-baby-names"
+            },
+            {
+              "name": "Beautiful Baby Names",
+              "slug": "beautiful-baby-names"
+            },
+            {
+              "name": "Feminine Baby Names",
+              "slug": "feminine-baby-names"
+            },
+            {
+              "name": "Magic Baby Names",
+              "slug": "magic-baby-names"
+            },
+            {
+              "name": "Last Names as First Names for Baby",
+              "slug": "last-name-baby-names"
+            },
+            {
+              "name": "Creative Baby Names",
+              "slug": "creative-baby-names"
+            },
+            {
+              "name": "All Aboard! 100 Nautical Names That Make a Splash",
+              "slug": "nautical-baby-names"
+            },
+            {
+              "name": "60 Ballet-Inspired Names That’ll Make You Want to Twirl",
+              "slug": "ballet-baby-names"
+            },
+            {
+              "name": "Designer Baby Names",
+              "slug": "designer-baby-names"
+            },
+            {
+              "name": "Top 500 Short Baby Names",
+              "slug": "short-baby-names"
+            },
+            {
+              "name": "Cowboy \u0026 Cowgirl Baby Names",
+              "slug": "cowboy-baby-names"
+            },
+            {
+              "name": "One Syllable Baby Names",
+              "slug": "one-syllable-baby-names"
+            },
+            {
+              "name": "Elegant Baby Names",
+              "slug": "elegant-baby-names"
+            },
+            {
+              "name": "Baby Boy and Girl Nicknames",
+              "slug": "baby-names-nicknames"
+            },
+            {
+              "name": "Cute Baby Names",
+              "slug": "cute-baby-names"
+            },
+            {
+              "name": "Food Baby Names",
+              "slug": "food-baby-names"
+            },
+            {
+              "name": "50 Fire Names for Baby",
+              "slug": "fire-baby-names"
+            },
+            {
+              "name": "Adventurous \u0026 Outdoorsy Baby Names",
+              "slug": "outdoorsy-baby-names"
+            },
+            {
+              "name": "Animal Baby Names",
+              "slug": "animal-baby-names"
+            },
+            {
+              "name": "Baby Names for Baby’s Sign",
+              "slug": "zodiac-baby-names"
+            },
+            {
+              "name": "Botanical \u0026 Plant Baby Names",
+              "slug": "plant-baby-names"
+            },
+            {
+              "name": "City Baby Names",
+              "slug": "city-baby-names"
+            },
+            {
+              "name": "250 Gothic Baby Names With Dark Meanings",
+              "slug": "gothic-baby-names"
+            },
+            {
+              "name": "Hipster Baby Names",
+              "slug": "hipster-baby-names"
+            },
+            {
+              "name": "Modern Baby Names",
+              "slug": "modern-baby-names"
+            },
+            {
+              "name": "Baby Names Inspired by Pride Month",
+              "slug": "pride-baby-names"
+            },
+            {
+              "name": "Rainbow Baby Names",
+              "slug": "rainbow-baby-names"
+            },
+            {
+              "name": "Scary Baby Names",
+              "slug": "scary-baby-names"
+            },
+            {
+              "name": "Spooky Names for Baby",
+              "slug": "spooky-baby-names"
+            },
+            {
+              "name": "Summer Baby Names",
+              "slug": "summer-baby-names"
+            },
+            {
+              "name": "Traditional Baby Names",
+              "slug": "traditional-baby-names"
+            },
+            {
+              "name": "Uncommon Baby Names",
+              "slug": "uncommon-baby-names"
+            },
+            {
+              "name": "Unique Baby Names",
+              "slug": "unique-baby-names"
+            },
+            {
+              "name": "Victorian Baby Names",
+              "slug": "victorian-baby-names"
+            },
+            {
+              "name": "Water Baby Names",
+              "slug": "water-baby-names"
+            },
+            {
+              "name": "Weird Celebrity Baby Names",
+              "slug": "weird-celebrity-baby-names"
+            },
+            {
+              "name": "\u003cspan class=\"long-text\"\u003eAnime Baby Names Straight From Studio Ghibli\u003c/span\u003e",
+              "slug": "anime-baby-names"
+            },
+            {
+              "name": "Vintage Baby Names",
+              "slug": "vintage-baby-names"
+            }
+          ]
+        },
+        {
+          "id": 36,
+          "name": "Baby Names with Meaning",
+          "slug": "baby-names-with-meaning",
+          "description": "If a particular definition snags your attention and you haven’t found the perfect fit for your newest family member yet, picking a baby name by meaning is the right next step! Baby names with meanings explore different values, well-wishes, and associations any parent could be inspired by. If you’re hoping to use baby’s name as a reminder of key core values, then choosing a baby name by its meaning just makes sense.",
+          "childLists": [
+            {
+              "name": "Baby Names That Mean “Joy”",
+              "slug": "joy-baby-names"
+            },
+            {
+              "name": "Baby Names That Mean “Friend”",
+              "slug": "friend-baby-names"
+            },
+            {
+              "name": "Baby Names That Mean “Happy”",
+              "slug": "happy-baby-names"
+            },
+            {
+              "name": "Shining Baby Names That Mean “Sun”",
+              "slug": "sun-baby-names"
+            },
+            {
+              "name": "Baby Names That Mean “Miracle”",
+              "slug": "miracle-baby-names"
+            },
+            {
+              "name": "Baby Names That Mean “Life”",
+              "slug": "life-baby-names"
+            },
+            {
+              "name": "Baby Names That Mean “Archer”",
+              "slug": "archer-baby-names"
+            },
+            {
+              "name": "Baby Names That Mean “Rose”",
+              "slug": "rose-baby-names"
+            },
+            {
+              "name": "Baby Names That Mean “God is Gracious”",
+              "slug": "god-is-gracious-baby-names"
+            },
+            {
+              "name": "Baby Names That Mean “Crystal”",
+              "slug": "crystal-baby-names"
+            },
+            {
+              "name": "Baby Names with Dark Meanings",
+              "slug": "dark-meanings-baby-names"
+            },
+            {
+              "name": "Baby Names That Mean “Night”",
+              "slug": "night-baby-names"
+            },
+            {
+              "name": "Baby Names That Mean “Beautiful”",
+              "slug": "beautiful-meaning-baby-names"
+            },
+            {
+              "name": "Baby Names That Mean “Healer”",
+              "slug": "healer-baby-names"
+            },
+            {
+              "name": "Baby Names That Mean “Lucky”",
+              "slug": "lucky-baby-names"
+            },
+            {
+              "name": "Baby Names That Mean “Brave”",
+              "slug": "brave-baby-names"
+            },
+            {
+              "name": "Baby Names That Mean “Warrior”",
+              "slug": "warrior-baby-names"
+            },
+            {
+              "name": "Baby Names That Mean “Fox”",
+              "slug": "fox-baby-names"
+            },
+            {
+              "name": "Baby Names That Mean “Magic”",
+              "slug": "magical-baby-names"
+            },
+            {
+              "name": "Baby Names That Mean “Gift from God”",
+              "slug": "gift-from-god-baby-names"
+            },
+            {
+              "name": "Baby Names That Mean “Wolf”",
+              "slug": "wolf-baby-names"
+            },
+            {
+              "name": "Smart Baby Names That Mean “Intelligent” or “Wise”",
+              "slug": "smart-baby-names"
+            },
+            {
+              "name": "Baby Names That Mean “Dream”",
+              "slug": "dreamy-baby-names"
+            },
+            {
+              "name": "Baby Names That Mean “Blessing”",
+              "slug": "blessing-baby-names"
+            },
+            {
+              "name": "Baby Names That Mean “New Beginnings”",
+              "slug": "new-beginnings-baby-names"
+            },
+            {
+              "name": "Baby Names That Mean “Bear”",
+              "slug": "bear-baby-names"
+            },
+            {
+              "name": "Baby Names That Mean “Forest”",
+              "slug": "forest-baby-names"
+            },
+            {
+              "name": "Baby Names That Mean “Kind”",
+              "slug": "kind-baby-names"
+            },
+            {
+              "name": "Baby Names That Mean “Truth”",
+              "slug": "truth-baby-names"
+            },
+            {
+              "name": "Baby Names That Mean “Moon”",
+              "slug": "moon-baby-names"
+            },
+            {
+              "name": "Baby Names That Mean “Dark”",
+              "slug": "dark-baby-names"
+            },
+            {
+              "name": "Baby Names That Mean “Justice”",
+              "slug": "justice-baby-names"
+            },
+            {
+              "name": "Baby Names That Mean “Strong”",
+              "slug": "strong-meaning-baby-names"
+            },
+            {
+              "name": "Baby Names That Mean “Pure”",
+              "slug": "pure-baby-names"
+            },
+            {
+              "name": "Baby Names That Mean “Victory”",
+              "slug": "victory-baby-names"
+            },
+            {
+              "name": "Baby Names That Mean “Butterfly”",
+              "slug": "butterfly-baby-names"
+            },
+            {
+              "name": "Baby Names That Mean “Time”",
+              "slug": "time-baby-names"
+            },
+            {
+              "name": "Baby Names That Mean “Lion” and “Lioness”",
+              "slug": "lion-baby-names"
+            },
+            {
+              "name": "Baby Names That Mean “Guardian”",
+              "slug": "protector-baby-names"
+            },
+            {
+              "name": "Baby Names That Mean “God Answers”",
+              "slug": "god-answers-baby-names"
+            },
+            {
+              "name": "Baby Names That Mean “Dragon”",
+              "slug": "dragon-baby-names"
+            },
+            {
+              "name": "Baby Names That Mean “Grace”",
+              "slug": "graceful-baby-names"
+            },
+            {
+              "name": "Baby Names That Mean “Leader”",
+              "slug": "leader-baby-names"
+            },
+            {
+              "name": "Baby Names That Mean “Shadow”",
+              "slug": "shadow-baby-names"
+            },
+            {
+              "name": "Baby Names That Mean “Spirit”",
+              "slug": "spirit-baby-names"
+            },
+            {
+              "name": "Baby Names That Mean “Winter,” “Snow,” and “Ice”",
+              "slug": "wintry-baby-names"
+            },
+            {
+              "name": "Princess Baby Names",
+              "slug": "princess-baby-names"
+            },
+            {
+              "name": "Baby Names That Mean “Love”",
+              "slug": "love-baby-names"
+            },
+            {
+              "name": "Baby Names That Mean “Hope”",
+              "slug": "hope-baby-names"
+            },
+            {
+              "name": "Baby Names That Mean “Hunter”",
+              "slug": "hunter-baby-names"
+            },
+            {
+              "name": "Baby Names That Mean “Death”",
+              "slug": "death-baby-names"
+            },
+            {
+              "name": "Baby Names That Mean “Peace”",
+              "slug": "peace-baby-names"
+            },
+            {
+              "name": "Baby Names That Mean “Noble”",
+              "slug": "noble-baby-names"
+            },
+            {
+              "name": "Baby Names That Mean “Yellow”",
+              "slug": "yellow-baby-names"
+            },
+            {
+              "name": "Soft Baby Names Meaning “Gentle”",
+              "slug": "gentle-baby-names"
+            },
+            {
+              "name": "Baby Names That Mean “Star”",
+              "slug": "star-baby-names"
+            },
+            {
+              "name": "Baby Names That Mean “Sweet”",
+              "slug": "sweet-baby-names"
+            },
+            {
+              "name": "Baby Names That Mean “Wind” and “Sky”",
+              "slug": "wind-baby-names"
+            },
+            {
+              "name": "Baby Names That Mean “Bird“",
+              "slug": "bird-baby-names"
+            }
+          ]
+        },
+        {
+          "id": 18,
+          "name": "Edgy Baby Names",
+          "slug": "edgy-baby-names",
+          "description": "If the world is full of too many muses to count, taking a look at the world’s best-kept secrets might be the next step. Take a stab at repurposing age-old family names or maybe draw inspiration from flora and fauna. Unique baby names can help put a title on the most endearing qualities in baby, all the while encouraging them to carve out their own path.",
+          "childLists": [
+            {
+              "name": "Bad Boy Baby Names",
+              "slug": "bad-boy-baby-names"
+            },
+            {
+              "name": "Cosmic Baby Names Inspired by Outer Space",
+              "slug": "outer-space-baby-names"
+            },
+            {
+              "name": "Uncommon Baby Names",
+              "slug": "uncommon-baby-names"
+            },
+            {
+              "name": "Modern Baby Names",
+              "slug": "modern-baby-names"
+            },
+            {
+              "name": "Baby Names for Baby’s Sign",
+              "slug": "zodiac-baby-names"
+            },
+            {
+              "name": "Emmy Award-Winning Baby Names of the 2020s",
+              "slug": "emmy-baby-names"
+            },
+            {
+              "name": "Spooky Names for Baby",
+              "slug": "spooky-baby-names"
+            },
+            {
+              "name": "Rock 'n' Roll Baby Names",
+              "slug": "rock-n-roll-baby-names"
+            },
+            {
+              "name": "Unique Baby Names",
+              "slug": "unique-baby-names"
+            },
+            {
+              "name": "Nerdy and Geeky Baby Names",
+              "slug": "geeky-baby-names"
+            },
+            {
+              "name": "Emo Baby Names",
+              "slug": "emo-baby-names"
+            },
+            {
+              "name": "Cool Baby Names",
+              "slug": "cool-baby-names"
+            },
+            {
+              "name": "Punk Rock Baby Names",
+              "slug": "punk-rock-baby-names"
+            },
+            {
+              "name": "Car-Inspired Baby Names",
+              "slug": "car-baby-names"
+            },
+            {
+              "name": "Rockstar Baby Names",
+              "slug": "rockstar-baby-names"
+            },
+            {
+              "name": "Celestial Baby Names",
+              "slug": "celestial-baby-names"
+            },
+            {
+              "name": "Unique Baby Boy Names",
+              "slug": "unique-baby-boy-names"
+            },
+            {
+              "name": "Ethereal Baby Names",
+              "slug": "ethereal-baby-names"
+            },
+            {
+              "name": "Unique Baby Girl Names",
+              "slug": "unique-baby-girl-names"
+            },
+            {
+              "name": "Chaotic Baby Names",
+              "slug": "chaotic-baby-names"
+            },
+            {
+              "name": "Moody Baby Names",
+              "slug": "moody-baby-names"
+            },
+            {
+              "name": "City Baby Names",
+              "slug": "city-baby-names"
+            },
+            {
+              "name": "Sassy Baby Names For Your Spunky Little Girl",
+              "slug": "sassy-baby-names"
+            },
+            {
+              "name": "Weird and Unusual Baby Names",
+              "slug": "unusual-baby-names"
+            },
+            {
+              "name": "Aesthetic Baby Names",
+              "slug": "aesthetic-baby-names"
+            },
+            {
+              "name": "50 Fire Names for Baby",
+              "slug": "fire-baby-names"
+            },
+            {
+              "name": "Scary Baby Names",
+              "slug": "scary-baby-names"
+            },
+            {
+              "name": "Futuristic Baby Names",
+              "slug": "futuristic-baby-names"
+            },
+            {
+              "name": "Rare Baby Names",
+              "slug": "rare-baby-names"
+            },
+            {
+              "name": "221 Badass Baby Names",
+              "slug": "badass-baby-names"
+            },
+            {
+              "name": "Bad Girl Baby Names",
+              "slug": "bad-girl-baby-names"
+            },
+            {
+              "name": "Hipster Baby Names",
+              "slug": "hipster-baby-names"
+            },
+            {
+              "name": "Animal Baby Names",
+              "slug": "animal-baby-names"
+            },
+            {
+              "name": "\u003cspan class=\"long-text\"\u003eAnime Baby Names Straight From Studio Ghibli\u003c/span\u003e",
+              "slug": "anime-baby-names"
+            },
+            {
+              "name": "Baby Names from \u003ci\u003eThe Witcher\u003c/i\u003e",
+              "slug": "witcher-baby-names"
+            },
+            {
+              "name": "Greek Mythology Baby Names",
+              "slug": "greek-myth-baby-names"
+            },
+            {
+              "name": "Last Names as First Names for Baby",
+              "slug": "last-name-baby-names"
+            },
+            {
+              "name": "Magic Baby Names",
+              "slug": "magic-baby-names"
+            },
+            {
+              "name": "21st Century Baby Names",
+              "slug": "twenty-first-century-baby-names"
+            },
+            {
+              "name": "Video Game Baby Names",
+              "slug": "video-game-baby-names"
+            },
+            {
+              "name": "Mythological Baby Names",
+              "slug": "mythological-baby-names"
+            },
+            {
+              "name": "Baby Names with Dark Meanings",
+              "slug": "dark-meanings-baby-names"
+            },
+            {
+              "name": "Sci-Fi Baby Names",
+              "slug": "sci-fi-baby-names"
+            }
+          ]
+        },
+        {
+          "id": 19,
+          "name": "Famous and Historical Baby Names",
+          "slug": "famous-baby-names",
+          "description": "There are so many famous people to be inspired by. From brilliant actors to phenomenal athletes to actual royalty, famous people make up a lot of the conversation in our daily lives. They wield influence like a chisel to our cultural marble slab, and there are plenty of ways to carry their banner forward! If there’s a famous figure throughout history or pop culture that you want to commemorate every day, a famous baby name for your future star could be precisely what you’re looking for.",
+          "childLists": [
+            {
+              "name": "African Heritage \u0026 Health Week-Inspired Baby Names",
+              "slug": "african-heritage-and-health-week-baby-names"
+            },
+            {
+              "name": "Eras Tour-Inspired Baby Names",
+              "slug": "taylor-swift-baby-names"
+            },
+            {
+              "name": "Old English Baby Names",
+              "slug": "old-english-baby-names"
+            },
+            {
+              "name": "Black History Month Baby Names",
+              "slug": "black-history-month-baby-names"
+            },
+            {
+              "name": "30 Baby Names for Women’s Equality Day",
+              "slug": "womens-equality-baby-names"
+            },
+            {
+              "name": "Royal Baby Names",
+              "slug": "royal-baby-names"
+            },
+            {
+              "name": "Historical Baby Names",
+              "slug": "historical-baby-names"
+            },
+            {
+              "name": "Baby Names Inspired by the Olympics",
+              "slug": "olympics-baby-names"
+            },
+            {
+              "name": "Disney Baby Names",
+              "slug": "disney-baby-names"
+            },
+            {
+              "name": "Wild Celebrity Baby Names",
+              "slug": "wild-celeb-baby-names"
+            },
+            {
+              "name": "Baby Names of Purple Heart Heroes",
+              "slug": "purple-heart-baby-names"
+            },
+            {
+              "name": "Feminist Baby Names for Women’s History Month",
+              "slug": "feminist-baby-names"
+            },
+            {
+              "name": "Baseball Baby Names",
+              "slug": "baseball-baby-names"
+            },
+            {
+              "name": "Presidential Baby Names",
+              "slug": "president-baby-names"
+            },
+            {
+              "name": "Celebrity Baby Names",
+              "slug": "celebrity-baby-names"
+            },
+            {
+              "name": "Baby Names Inspired by Hispanic Heritage Month",
+              "slug": "hispanic-heritage-baby-names"
+            },
+            {
+              "name": "Baby Names Inspired by African American Heritage Month",
+              "slug": "african-american-heritage-baby-names"
+            },
+            {
+              "name": "Weird Celebrity Baby Names",
+              "slug": "weird-celebrity-baby-names"
+            },
+            {
+              "name": "Baby Names for Hockey Fans",
+              "slug": "hockey-baby-names"
+            },
+            {
+              "name": "Football Baby Names",
+              "slug": "football-baby-names"
+            },
+            {
+              "name": "Poetic Baby Names",
+              "slug": "poetic-baby-names"
+            },
+            {
+              "name": "Literary Baby Names",
+              "slug": "literary-baby-names"
+            },
+            {
+              "name": "Baby Names for Native American Heritage Month",
+              "slug": "native-american-heritage-month-baby-names"
+            },
+            {
+              "name": "Baby Names Inspired by Pride Month",
+              "slug": "pride-baby-names"
+            }
+          ]
+        },
+        {
+          "id": 34,
+          "name": "Baby Names A to Z",
+          "slug": "a-z-baby-names",
+          "description": "If you plan on having a family of Ms or just love the way “T” sounds tripping off of your tongue, browsing baby names by their starting or ending letters could be exactly what you’re looking for. By narrowing your choices down to the gender and the letter, you’re kicking off your search in a specific but non-limiting way. The world is your oyster when only one letter is a requirement!",
+          "childLists": []
+        },
+        {
+          "id": 33,
+          "name": "Earthy Baby Names",
+          "slug": "earthy-baby-names",
+          "description": "Feeling an attachment to mother Earth is, well, natural! From the trees helping you breathe deeper to the crystal blue waters reflecting the world’s wonders, nature helps us all! Earthy baby names are as comforting as food fresh from the garden, while still being a treat that’ll last all baby’s life. These names are rife with the opportunities to give baby ties to their roots among the soil or impart the lesson of perseverance from the buzzing bees. Celebrate everything from the ground below your feet to the mountain peaks high above every day just by uttering a few syllables.",
+          "childLists": [
+            {
+              "name": "Baby Names That Mean “Green”",
+              "slug": "green-baby-names"
+            },
+            {
+              "name": "Botanical \u0026 Plant Baby Names",
+              "slug": "plant-baby-names"
+            },
+            {
+              "name": "Animal Baby Names",
+              "slug": "animal-baby-names"
+            },
+            {
+              "name": "Fruity Baby Names",
+              "slug": "fruity-baby-names"
+            },
+            {
+              "name": "Element Baby Names",
+              "slug": "element-baby-names"
+            },
+            {
+              "name": "30 Brilliant Baby Names That Mean ‘Light’",
+              "slug": "light-baby-names"
+            },
+            {
+              "name": "Water Baby Names",
+              "slug": "water-baby-names"
+            },
+            {
+              "name": "Baby Names Inspired by Insects and Bugs",
+              "slug": "insect-baby-names"
+            },
+            {
+              "name": "Rainbow Baby Names",
+              "slug": "rainbow-baby-names"
+            },
+            {
+              "name": "Adventurous \u0026 Outdoorsy Baby Names",
+              "slug": "outdoorsy-baby-names"
+            },
+            {
+              "name": "Flower Baby Names",
+              "slug": "flower-baby-names"
+            },
+            {
+              "name": "Mountain-Inspired Baby Names",
+              "slug": "mountain-baby-names"
+            },
+            {
+              "name": "Nature Baby Names",
+              "slug": "nature-baby-names"
+            },
+            {
+              "name": "Baby Names Inspired by the Planets",
+              "slug": "planet-baby-names"
+            },
+            {
+              "name": "Stormy Baby Names",
+              "slug": "stormy-baby-names"
+            },
+            {
+              "name": "Hippie Baby Names",
+              "slug": "hippie-baby-names"
+            },
+            {
+              "name": "Beachy Baby Names",
+              "slug": "beach-baby-names"
+            },
+            {
+              "name": "Baby Names That Mean “Bird“",
+              "slug": "bird-baby-names"
+            },
+            {
+              "name": "Ocean Baby Names",
+              "slug": "ocean-baby-names"
+            },
+            {
+              "name": "Baby Names Meaning “Tree”",
+              "slug": "tree-baby-names"
+            },
+            {
+              "name": "Mineral and Gemstone Baby Names",
+              "slug": "gemstone-baby-names"
+            },
+            {
+              "name": "50 Fire Names for Baby",
+              "slug": "fire-baby-names"
+            },
+            {
+              "name": "Baby Names for Baby’s Sign",
+              "slug": "zodiac-baby-names"
+            },
+            {
+              "name": "Celestial Baby Names",
+              "slug": "celestial-baby-names"
+            },
+            {
+              "name": "Greek Mythology Baby Names",
+              "slug": "greek-myth-baby-names"
+            },
+            {
+              "name": "Pagan Baby Names",
+              "slug": "pagan-baby-names"
+            },
+            {
+              "name": "Warm and Cozy Fall Names for Autumn Babies",
+              "slug": "autumnal-baby-names"
+            },
+            {
+              "name": "Winter Baby Names",
+              "slug": "winter-baby-names"
+            },
+            {
+              "name": "Summer Baby Names",
+              "slug": "summer-baby-names"
+            },
+            {
+              "name": "Stormy Baby Names",
+              "slug": "stormy-baby-names"
+            },
+            {
+              "name": "Baby Names That Mean “Rose”",
+              "slug": "rose-baby-names"
+            },
+            {
+              "name": "Baby Names That Mean “Forest”",
+              "slug": "forest-baby-names"
+            }
+          ]
+        },
+        {
+          "id": 32,
+          "name": "Religious and Spiritual Baby Names",
+          "slug": "religious-and-spiritual-baby-names",
+          "description": "A name that highlights the path you want to carve out for baby—while still giving them room to grow—is hard to find! Likely, deciding to raise baby in your faith made complete sense, but giving them a name that represents everything baby and your faith means to you could quickly leave you feeling a little uncertain. Religious and spiritual baby names can help you narrow down what you love most about your religion and implore baby to feel the same.",
+          "childLists": [
+            {
+              "name": "Sikh Baby Names",
+              "slug": "sikh-baby-names"
+            },
+            {
+              "name": "Taoist Baby Names",
+              "slug": "taoist-baby-names"
+            },
+            {
+              "name": "Muslim Baby Names",
+              "slug": "muslim-baby-names"
+            },
+            {
+              "name": "Spiritual Baby Names",
+              "slug": "spiritual-baby-names"
+            },
+            {
+              "name": "Buddhist Baby Names",
+              "slug": "buddhist-baby-names"
+            },
+            {
+              "name": "Catholic Baby Names",
+              "slug": "catholic-baby-names"
+            },
+            {
+              "name": "Ramadan Baby Names",
+              "slug": "ramadan-baby-names"
+            },
+            {
+              "name": "Hindu Baby Names",
+              "slug": "hindu-baby-names"
+            },
+            {
+              "name": "Biblical Baby Names",
+              "slug": "biblical-baby-names"
+            },
+            {
+              "name": "Baby Names Inspired by Saints",
+              "slug": "saint-baby-names"
+            },
+            {
+              "name": "Wiccan Baby Names",
+              "slug": "wiccan-baby-names"
+            },
+            {
+              "name": "Pagan Baby Names",
+              "slug": "pagan-baby-names"
+            },
+            {
+              "name": "Angel Baby Names",
+              "slug": "angel-baby-names"
+            },
+            {
+              "name": "Christmas Baby Names",
+              "slug": "christmas-baby-names"
+            },
+            {
+              "name": "Hanukkah Baby Names",
+              "slug": "hanukkah-baby-names"
+            },
+            {
+              "name": "Ōmisoka Baby Names",
+              "slug": "omisoka-baby-names"
+            },
+            {
+              "name": "Baby Names That Mean “God Answers”",
+              "slug": "god-answers-baby-names"
+            }
+          ]
+        },
+        {
+          "id": 20,
+          "name": "Baby Name Lists by Origin",
+          "slug": "baby-name-origins",
+          "description": "The chance to name baby for their heritage should be deeply cherished. This is an opportunity to impart values and family history with just a few syllables. If baby comes from a mixed and proud heritage, maybe pluck a couple of these names for a multi-cultural celebration every day. From African to Yiddish and dozens of languages and places in between, picking a baby name by origin will have baby’s homeland flags on display in no time.",
+          "childLists": [
+            {
+              "name": "African Baby Names",
+              "slug": "african-baby-names"
+            },
+            {
+              "name": "American Baby Names",
+              "slug": "american-baby-names"
+            },
+            {
+              "name": "Arabic Baby Names",
+              "slug": "arabic-baby-names"
+            },
+            {
+              "name": "Aramaic Baby Names",
+              "slug": "aramaic-baby-names"
+            },
+            {
+              "name": "Armenian Baby Names",
+              "slug": "armenian-baby-names"
+            },
+            {
+              "name": "Australian Baby Names",
+              "slug": "australian-baby-names"
+            },
+            {
+              "name": "Aztec Baby Names",
+              "slug": "aztec-baby-names"
+            },
+            {
+              "name": "Baby Names for Greek American Heritage Month",
+              "slug": "greek-american-baby-names"
+            },
+            {
+              "name": "Baby Names for Irish American Heritage Month",
+              "slug": "irish-american-baby-names"
+            },
+            {
+              "name": "Babylonian Baby Names",
+              "slug": "babylonian-baby-names"
+            },
+            {
+              "name": "Basque Baby Names",
+              "slug": "basque-baby-names"
+            },
+            {
+              "name": "Bilingual Baby Names",
+              "slug": "bilingual-baby-names"
+            },
+            {
+              "name": "Brazilian Baby Names",
+              "slug": "brazilian-baby-names"
+            },
+            {
+              "name": "British Baby Names",
+              "slug": "british-baby-names"
+            },
+            {
+              "name": "British Baby Boy Names",
+              "slug": "british-baby-boy-names"
+            },
+            {
+              "name": "British Baby Girl Names",
+              "slug": "british-baby-girl-names"
+            },
+            {
+              "name": "Cambodian Baby Names",
+              "slug": "cambodian-baby-names"
+            },
+            {
+              "name": "Celtic Baby Names",
+              "slug": "celtic-baby-names"
+            },
+            {
+              "name": "Cherokee Baby Names",
+              "slug": "cherokee-baby-names"
+            },
+            {
+              "name": "Chinese Baby Names",
+              "slug": "chinese-baby-names"
+            },
+            {
+              "name": "Czech Baby Names",
+              "slug": "czech-baby-names"
+            },
+            {
+              "name": "Danish Baby Names",
+              "slug": "danish-baby-names"
+            },
+            {
+              "name": "Dutch Baby Names",
+              "slug": "dutch-baby-names"
+            },
+            {
+              "name": "Egyptian Baby Names",
+              "slug": "egyptian-baby-names"
+            },
+            {
+              "name": "Filipino Baby Names to Fill You With Pride",
+              "slug": "filipino-baby-names"
+            },
+            {
+              "name": "Finnish Baby Names",
+              "slug": "finnish-baby-names"
+            },
+            {
+              "name": "French Baby Names",
+              "slug": "french-baby-names"
+            },
+            {
+              "name": "Gaelic Baby Names",
+              "slug": "gaelic-baby-names"
+            },
+            {
+              "name": "German Baby Names",
+              "slug": "german-baby-names"
+            },
+            {
+              "name": "Ghanaian Baby Names",
+              "slug": "ghanaian-baby-names"
+            },
+            {
+              "name": "Greek Baby Names",
+              "slug": "greek-baby-names"
+            },
+            {
+              "name": "Greek Baby Boy Names",
+              "slug": "greek-baby-boy-names"
+            },
+            {
+              "name": "Greek Baby Girl Names",
+              "slug": "greek-baby-girl-names"
+            },
+            {
+              "name": "Haitian Baby Names",
+              "slug": "haitian-baby-names"
+            },
+            {
+              "name": "Hawaiian Baby Names",
+              "slug": "hawaiian-baby-names"
+            },
+            {
+              "name": "Hebrew Baby Names",
+              "slug": "hebrew-baby-names"
+            },
+            {
+              "name": "Hebrew Baby Boy Names",
+              "slug": "hebrew-baby-boy-names"
+            },
+            {
+              "name": "Hebrew Baby Girl Names",
+              "slug": "hebrew-baby-girl-names"
+            },
+            {
+              "name": "Hungarian Baby Names",
+              "slug": "hungarian-baby-names"
+            },
+            {
+              "name": "Icelandic Baby Names",
+              "slug": "icelandic-baby-names"
+            },
+            {
+              "name": "Indian Baby Names",
+              "slug": "indian-baby-names"
+            },
+            {
+              "name": "Irish Baby Names",
+              "slug": "irish-baby-names"
+            },
+            {
+              "name": "Irish Baby Boy Names",
+              "slug": "irish-baby-boy-names"
+            },
+            {
+              "name": "Irish Baby Girl Names",
+              "slug": "irish-baby-girl-names"
+            },
+            {
+              "name": "Italian Baby Names",
+              "slug": "italian-baby-names"
+            },
+            {
+              "name": "Italian Baby Boy Names",
+              "slug": "italian-baby-boy-names"
+            },
+            {
+              "name": "Italian Baby Girl Names",
+              "slug": "italian-baby-girl-names"
+            },
+            {
+              "name": "Jamaican Baby Names",
+              "slug": "jamaican-baby-names"
+            },
+            {
+              "name": "Japanese Baby Names",
+              "slug": "japanese-baby-names"
+            },
+            {
+              "name": "Korean Baby Names That Are Cute and Meaningful",
+              "slug": "korean-baby-names"
+            },
+            {
+              "name": "Latin Baby Names",
+              "slug": "latin-baby-names"
+            },
+            {
+              "name": "Mexican Baby Names",
+              "slug": "mexican-baby-names"
+            },
+            {
+              "name": "Native American Baby Names",
+              "slug": "native-american-baby-names"
+            },
+            {
+              "name": "Nigerian Baby Names",
+              "slug": "nigerian-baby-names"
+            },
+            {
+              "name": "Norse Baby Names",
+              "slug": "norse-baby-names"
+            },
+            {
+              "name": "Norwegian Baby Names",
+              "slug": "norwegian-baby-names"
+            },
+            {
+              "name": "Pacific Islander Baby Names",
+              "slug": "pacific-islander-baby-names"
+            },
+            {
+              "name": "Persian Baby Names",
+              "slug": "persian-baby-names"
+            },
+            {
+              "name": "Polish Baby Names",
+              "slug": "polish-baby-names"
+            },
+            {
+              "name": "Portuguese Baby Names",
+              "slug": "portuguese-baby-names"
+            },
+            {
+              "name": "Roman Baby Names for Little Legends",
+              "slug": "roman-baby-names"
+            },
+            {
+              "name": "Romanian Baby Names",
+              "slug": "romanian-baby-names"
+            },
+            {
+              "name": "Russian Baby Names",
+              "slug": "russian-baby-names"
+            },
+            {
+              "name": "Sanskrit Baby Names",
+              "slug": "sanskrit-baby-names"
+            },
+            {
+              "name": "Scandinavian Baby Names",
+              "slug": "scandinavian-baby-names"
+            },
+            {
+              "name": "Scottish Baby Names",
+              "slug": "scottish-baby-names"
+            },
+            {
+              "name": "Scottish Baby Boy Names",
+              "slug": "scottish-baby-boy-names"
+            },
+            {
+              "name": "Scottish Baby Girl Names",
+              "slug": "scottish-baby-girl-names"
+            },
+            {
+              "name": "Slavic Baby Names",
+              "slug": "slavic-baby-names"
+            },
+            {
+              "name": "Spanish Baby Names",
+              "slug": "spanish-baby-names"
+            },
+            {
+              "name": "Spanish Baby Boy Names",
+              "slug": "spanish-baby-boy-names"
+            },
+            {
+              "name": "Spanish Baby Girl Names",
+              "slug": "spanish-baby-girl-names"
+            },
+            {
+              "name": "Swahili Baby Names",
+              "slug": "swahili-baby-names"
+            },
+            {
+              "name": "Swedish Baby Names",
+              "slug": "swedish-baby-names"
+            },
+            {
+              "name": "Swiss Baby Names",
+              "slug": "swiss-baby-names"
+            },
+            {
+              "name": "Thai Baby Names",
+              "slug": "thai-baby-names"
+            },
+            {
+              "name": "Turkish Baby Names",
+              "slug": "turkish-baby-names"
+            },
+            {
+              "name": "Ukrainian Baby Names",
+              "slug": "ukrainian-baby-names"
+            },
+            {
+              "name": "Vietnamese Baby Names to Honor Your Ancestry",
+              "slug": "vietnamese-baby-names"
+            },
+            {
+              "name": "Welsh Baby Names",
+              "slug": "welsh-baby-names"
+            },
+            {
+              "name": "Yiddish Baby Names",
+              "slug": "yiddish-baby-names"
+            }
+          ]
+        }
+      ]
+    }
+  }

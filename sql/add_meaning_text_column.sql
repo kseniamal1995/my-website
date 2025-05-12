@@ -1,0 +1,1 @@
+ALTER TABLE names ADD COLUMN meaning_text TEXT AFTER origin_id; 
