@@ -1,0 +1,13 @@
+{
+    "name": "my-website/name-generator",
+    "description": "Name Generator Website",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.4"
+    }
+} 
