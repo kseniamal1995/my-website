@@ -1,9 +1,24 @@
 <?php
 require_once __DIR__ . '/../vendor/autoload.php';
 
+use App\Router\Router;
 use App\Models\Origin;
 use App\Models\Meaning;
 use App\Models\Style;
+
+// Настраиваем маршрутизатор
+$router = new Router();
+
+// Добавляем маршрут для деталей имени
+$router->addRoute('/names/{name}', __DIR__ . '/names/index.php');
+
+// Проверяем, соответствует ли запрос одному из зарегистрированных маршрутов
+if (parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH) !== '/') {
+    $router->run();
+    exit;
+}
+
+// Если маршрут не найден, продолжаем выполнение основного кода страницы
 
 try {
     $originModel = new Origin();
@@ -165,5 +180,6 @@ $stylesSecondRow = array_slice($styles, 6);
     <script src="assets/scripts/gender-cards.js"></script>
     <script src="assets/scripts/style-cards.js"></script>
     <script src="assets/scripts/origin-selector.js"></script>
+    <script src="assets/scripts/search-form.js"></script>
 </body>
 </html> 
